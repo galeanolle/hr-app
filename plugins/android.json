@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.testapp.appname"
+    }
+  },
+  "dependent_plugins": {}
+}
