@@ -7,9 +7,6 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.tutorial.com"
-    },
     "phonegap-plugin-barcodescanner": {
       "PACKAGE_NAME": "com.tutorial.com"
     },

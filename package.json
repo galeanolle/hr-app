@@ -20,7 +20,6 @@
     "cordova-plugin-compat": "^1.2.0",
     "cordova-plugin-dialogs": "^2.0.1",
     "cordova-plugin-inappbrowser": "^3.0.0",
-    "cordova-plugin-whitelist": "1",
     "cordova-sqlite-storage": "^3.2.0",
     "phonegap-plugin-barcodescanner": "^8.0.1"
   },
@@ -29,7 +28,6 @@
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-whitelist": {},
       "phonegap-plugin-barcodescanner": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-dialogs": {},

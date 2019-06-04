@@ -28,7 +28,6 @@
         <uses-feature android:name="android.hardware.camera.autofocus" />
     </config-file>
     <engine name="browser" spec="^6.0.0" />
-    <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="phonegap-plugin-barcodescanner" spec="^8.0.1" />
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />

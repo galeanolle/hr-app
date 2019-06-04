@@ -19,9 +19,6 @@
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.testapp.appname"
     },
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.testapp.appname"
-    },
     "cordova-sqlite-storage": {
       "PACKAGE_NAME": "com.testapp.appname"
     }
