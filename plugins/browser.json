@@ -19,9 +19,6 @@
     "cordova-plugin-barcodescanner": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
     },
-    "cordova-sqlite-storage": {
-      "PACKAGE_NAME": "com.tutorial-hr.com"
-    },
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
     }

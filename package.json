@@ -20,7 +20,7 @@
     "cordova-plugin-compat": "^1.2.0",
     "cordova-plugin-dialogs": "^2.0.1",
     "cordova-plugin-inappbrowser": "^3.0.0",
-    "cordova-sqlite-storage": "^3.2.0",
+    "cordova-plugin-sqlite": "^1.0.3",
     "phonegap-plugin-barcodescanner": "^8.0.1"
   },
   "devDependencies": {
@@ -32,7 +32,6 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-dialogs": {},
       "cordova-plugin-barcodescanner": {},
-      "cordova-sqlite-storage": {},
       "cordova-plugin-camera": {}
     },
     "platforms": [

@@ -12,9 +12,6 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
-    <feature name="SQLitePlugin">
-        <param name="android-package" value="io.sqlc.SQLitePlugin" />
-    </feature>
     <name>tutorial phonegap-hr</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
