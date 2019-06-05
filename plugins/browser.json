@@ -7,9 +7,6 @@
     "files": {}
   },
   "installed_plugins": {
-    "phonegap-plugin-barcodescanner": {
-      "PACKAGE_NAME": "com.tutorial.com"
-    },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
     },
