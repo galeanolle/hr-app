@@ -26,7 +26,8 @@
     "cordova": {
         "plugins": {
             "cordova-plugin-inappbrowser": {},
-            "cordova-plugin-dialogs": {}
+            "cordova-plugin-dialogs": {},
+            "cordova-plugin-barcodescanner": {}
         },
         "platforms": [
             "browser",

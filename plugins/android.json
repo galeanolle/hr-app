@@ -12,7 +12,14 @@
     },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.hrapp.TechRoot"
+    },
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.hrapp.TechRoot"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.hrapp.TechRoot"
+    }
+  }
 }
