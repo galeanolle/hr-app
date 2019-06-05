@@ -21,6 +21,9 @@
     },
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.testapp.appname"
     }
   },
   "dependent_plugins": {

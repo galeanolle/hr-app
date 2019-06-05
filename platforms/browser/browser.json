@@ -24,17 +24,17 @@
           "/*": [
             {
               "xml": "<uses-permission android:name=\"android.permission.CAMERA\" />",
-              "count": 405,
+              "count": 411,
               "id": "config.xml"
             },
             {
               "xml": "<uses-feature android:name=\"android.hardware.camera\" />",
-              "count": 405,
+              "count": 411,
               "id": "config.xml"
             },
             {
               "xml": "<uses-feature android:name=\"android.hardware.camera.autofocus\" />",
-              "count": 405,
+              "count": 411,
               "id": "config.xml"
             }
           ]
@@ -60,6 +60,9 @@
     },
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.testapp.appname"
     }
   },
   "dependent_plugins": {},
@@ -154,6 +157,7 @@
     "cordova-plugin-dialogs": "2.0.1",
     "cordova-plugin-compat": "1.2.0",
     "cordova-plugin-barcodescanner": "0.7.4",
-    "cordova-plugin-camera": "4.0.3"
+    "cordova-plugin-camera": "4.0.3",
+    "cordova-plugin-whitelist": "1.3.3"
   }
 }

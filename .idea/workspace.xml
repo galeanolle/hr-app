@@ -4,283 +4,62 @@
     <list default="true" id="e013afba-0851-4946-8f22-1537366455c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/AUTHORS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/CHANGES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/SQLitePlugin.coffee.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/bin/test.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/bin/test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/circle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/scripts/beforePluginInstall.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/scripts/prepareSpec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/boot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/console.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine-html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine_favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/basic-db-tx-sql-storage-results.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/browser-check-startup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-open-close-delete-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-simultaneous-tx-access-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-sql-operations-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-error-handling-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-error-mapping-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-multiple-update-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-sql-features-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-sql-select-value-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-string-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/db-tx-value-bindings-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/ext-tx-blob-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/regexp-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/self-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/sql-batch-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/spec/www/spec/tx-semantics-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/PSPDFThreadSafeMutableDictionary.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/PSPDFThreadSafeMutableDictionary.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/ios/SQLitePlugin.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Constants.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Constants.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Database.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Database.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.Shared.vcxitems" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.UWP.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Statement.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Statement.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/pch.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/pch.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3JS/js/SQLite3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/src/windows/sqlite-proxy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/tests/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/tests/tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-sqlite-storage/www/SQLitePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-android/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-android/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/android.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/libs/sqlite-connector.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/libs/sqlite-native-driver.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-sqlite-storage/www/SQLitePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/com/testapp/appname/MainActivity.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteAndroidDatabase.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLiteConnectorDatabase.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/io/sqlc/SQLitePlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/plugins/cordova-sqlite-storage/www/SQLitePlugin.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/browser.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/android.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/browser.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/AUTHORS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/CHANGES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/SQLitePlugin.coffee.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/bin/test.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/bin/test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/circle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/cake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/cake.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/coffee.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/semver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/which" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/.bin/which.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/bin/cake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/bin/coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/cake.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/coffee-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/command.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/grammar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/lexer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/nodes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/optparse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/repl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/rewriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/scope.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/lib/coffee-script/sourcemap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/coffeescript/repl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/sqlite-connector.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/libs/sqlite-native-driver.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/sqlite3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cordova-sqlite-storage-dependencies/sqlite3.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/lib/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/lib/util/escape.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/lib/util/readShebang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/lib/util/resolveCommand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/cross-spawn/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/copy-sync/copy-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/copy-sync/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/copy/copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/copy/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/empty/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/link.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/symlink-paths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/symlink-type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/ensure/symlink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/fs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/json/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/json/jsonfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/json/output-json-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/json/output-json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/mkdirs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/mkdirs/mkdirs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/mkdirs/win32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/move-sync/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/move/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/output/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/path-exists/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/remove/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/remove/rimraf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/util/buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/lib/util/utimes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/fs-extra/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/clone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/graceful-fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/legacy-streams.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/graceful-fs/polyfills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/mode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/test/basic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/isexe/windows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/jsonfile/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/jsonfile/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/jsonfile/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/jsonfile/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/jsonfile/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/nice-try/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/nice-try/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/nice-try/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/nice-try/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/nice-try/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-key/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-key/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-key/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/path-key/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/semver/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-command/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-command/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-command/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-command/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-regex/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-regex/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-regex/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/shebang-regex/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/universalify/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/universalify/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/universalify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/universalify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/bin/which" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/node_modules/which/which.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/scripts/beforePluginInstall.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/scripts/prepareSpec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/boot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/console.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine-html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/lib/jasmine-2.5.2/jasmine_favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/basic-db-tx-sql-storage-results.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/browser-check-startup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-open-close-delete-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-simultaneous-tx-access-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-sql-operations-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-error-handling-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-error-mapping-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-multiple-update-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-sql-features-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-sql-select-value-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-string-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/db-tx-value-bindings-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/ext-tx-blob-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/regexp-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/self-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/sql-batch-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/sqlite-version-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/spec/www/spec/tx-semantics-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteAndroidDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLiteConnectorDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/android/io/sqlc/SQLitePlugin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/PSPDFThreadSafeMutableDictionary.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/PSPDFThreadSafeMutableDictionary.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/ios/SQLitePlugin.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Constants.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Constants.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Database.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Database.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.Shared.vcxitems" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.UWP.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/SQLite3.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Statement.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/Statement.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/pch.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3/pch.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/SQLite3-WinRT-sync/SQLite3JS/js/SQLite3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/src/windows/sqlite-proxy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/tests/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/tests/tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/cordova-sqlite-storage/www/SQLitePlugin.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/fetch.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -291,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="276">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -321,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="1044">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -378,10 +157,17 @@
       <find>base64image</find>
       <find>cordova</find>
       <find>scan</find>
-      <find>android</find>
       <find>takePicture</find>
       <find>photo</find>
+      <find>android</find>
+      <find>com.</find>
+      <find>&lt;platform name=&quot;android&quot;&gt;</find>
+      <find>AndroidManif</find>
+      <find>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\hunters\hr-app</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -390,25 +176,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/js/jquery-2.1.4.min.js" />
         <option value="$PROJECT_DIR$/www/js/jquery.mobile-1.4.5.min.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="7" />
+    <option name="y" value="13" />
+    <option name="width" value="1260" />
+    <option name="height" value="641" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -416,11 +203,21 @@
               <item name="hr-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="hr-app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hr-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hr-app" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hr-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hr-app" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -455,18 +252,19 @@
       <workItem from="1558307193019" duration="15134000" />
       <workItem from="1558478289845" duration="625000" />
       <workItem from="1559661296289" duration="2157000" />
-      <workItem from="1559665238225" duration="2218000" />
+      <workItem from="1559665238225" duration="10335000" />
+      <workItem from="1559695734450" duration="4307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25226000" />
+    <option name="totallyTimeSpent" value="37650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -481,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.088809945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -519,6 +317,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#5;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/jquery-2.1.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -529,26 +343,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
+    <entry file="file://$PROJECT_DIR$/platforms/android/CordovaLib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="162">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#2;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#3;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#5;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="276">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
         </state>
       </provider>
     </entry>

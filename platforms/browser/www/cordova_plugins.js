@@ -92,7 +92,8 @@ module.exports.metadata =
     "cordova-plugin-dialogs": "2.0.1",
     "cordova-plugin-compat": "1.2.0",
     "cordova-plugin-barcodescanner": "0.7.4",
-    "cordova-plugin-camera": "4.0.3"
+    "cordova-plugin-camera": "4.0.3",
+    "cordova-plugin-whitelist": "1.3.3"
 }
 // BOTTOM OF METADATA
 });
