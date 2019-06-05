@@ -50,6 +50,7 @@
         <icon density="xxxhdpi" src="resources/android/icon/drawable-xxxhdpi-icon.png" />
     </platform>
     <engine name="browser" spec="^6.0.0" />
+    <engine name="android" spec="^6.2.3" />
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
 </widget>
