@@ -47,10 +47,14 @@
 
             <div data-role="main" class="ui-content">
                 <p>
-                    <a target="_blank" href="javascript:scan();" style="text-decoration: none"><button>SCANEAME YA</button></a>
+                    <a target="_blank" href="javascript:scan();" style="text-decoration: none"><button style="font-size:1.5rem;">SCAN</button></a>
 
-                    <a target="_blank" href="javascript:takePicture();" style="text-decoration: none"><button>CAMARA</button></a>
+                    <br>
+                    <br>
 
+                    <a target="_blank" href="javascript:takePicture();" style="text-decoration: none"><button style="font-size:1.5rem;">TAKE PICTURE</button></a>
+
+                    <!--
                     <a target="_blank" href="javascript:insert();" style="text-decoration: none"><button>INSERT</button></a>
 
                     <a target="_blank" href="javascript:consulta();" style="text-decoration: none"><button>CONSULTA</button></a>
@@ -58,9 +62,11 @@
                     <a target="_blank" href="javascript:deleteInfo();" style="text-decoration: none"><button>DELETE</button></a>
 
                     <a target="_blank" href="javascript:updateInfo();" style="text-decoration: none"><button>DELETE</button></a>
+                    -->
 
                     <div id="text"></div>
 
+                <!--
                     Dato <input type="text" id="dato" />
 
                     Info <input type="text" id="info" />
@@ -69,6 +75,8 @@
                     <div id="divPrueba">
 
                     </div>
+
+                    -->
 
                     <img style="width:144px;height:144px;" id="photo" src="img/logo.png"/>
 
@@ -104,10 +112,10 @@
                         preferFrontCamera: false, // iOS and Android
                         showFlipCameraButton : false, // iOS and Android
                         prompt : "Coloca el codigo en el area de escaneo", // supported on Android only
-                        formats : "QR_CODE,PDF_417", // default: all but PDF_417 and RSS_EXPANDED
-                        orientation : "landscape", // Android only (portrait|landscape), default unset so it rotates with the device,
+                        formats : "PDF_417,QR_CODE", // default: all but PDF_417 and RSS_EXPANDED
+                        orientation : "portrait", // Android only (portrait|landscape), default unset so it rotates with the device,
                         showTorchButton: true,
-                        torchOn: false,
+                        torchOn: true,
                         resultDisplayDuration: 3000
                     }
                 );
