@@ -131,7 +131,7 @@
 
             function takePicture() {
                 navigator.camera.getPicture(onSuccess, onFail, { quality: 50, correctOrientation: true,
-                    destinationType: Camera.DestinationType.FILE_URI });
+                    destinationType: Camera.DestinationType.DATA_URL });
             };
 
 

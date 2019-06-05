@@ -16,19 +16,12 @@
     "cordova-plugin-dialogs": {
       "PACKAGE_NAME": "com.tutorial-hr.com"
     },
-    "cordova-plugin-barcodescanner": {
-      "PACKAGE_NAME": "com.tutorial-hr.com"
-    },
-    "cordova-plugin-camera": {
-      "PACKAGE_NAME": "com.tutorial-hr.com"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.testapp.appname"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.hrapp.TechRoot"
     }
   },
-  "dependent_plugins": {
-    "cordova-plugin-compat": {
-      "PACKAGE_NAME": "com.tutorial-hr.com"
-    }
-  }
+  "dependent_plugins": {}
 }
