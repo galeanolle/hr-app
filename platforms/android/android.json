@@ -10,17 +10,17 @@
           "/*": [
             {
               "xml": "<uses-permission android:name=\"android.permission.CAMERA\" />",
-              "count": 1,
+              "count": 3,
               "id": "config.xml"
             },
             {
-              "xml": "<uses-feature android:name=\"android.hardware.camera\" android:required=\"false\" />",
-              "count": 1,
+              "xml": "<uses-feature android:name=\"android.hardware.camera\" android:required=\"true\" />",
+              "count": 3,
               "id": "config.xml"
             },
             {
-              "xml": "<uses-feature android:name=\"android.hardware.camera.autofocus\" android:required=\"false\" />",
-              "count": 1,
+              "xml": "<uses-feature android:name=\"android.hardware.camera.autofocus\" android:required=\"true\" />",
+              "count": 3,
               "id": "config.xml"
             }
           ],

@@ -1,9 +1,9 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "tutorial phonegap-hr",
-  "short_name": "tutorial phonegap-hr",
-  "version": "com.testapp.appname",
+  "name": "App Admin - TechRoot",
+  "short_name": "App Admin - TechRoot",
+  "version": "com.hrapp.TechRoot",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "author": "Apache Cordova Team",
   "icons": [],
